@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/.android/build-cache/6987ffdbf96f58a2051827ce352d166aa69d59de/output/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_c31070d032378532c5182de0d9e592c9c8070089.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/.android/build-cache/6987ffdbf96f58a2051827ce352d166aa69d59de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/pre-dexed/debug/classes_d437c48d08ab10189da23c1e7536e712991a69d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/.android/build-cache/7bda6ec755cd2decf9512ba3995a5490ad034d35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/pre-dexed/debug/classes_d5c409f3b284ab6e87a64b82b6968c927f2d5ec5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/.android/build-cache/96d3d43ea8478a72f2145a538d4976f8840d7892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/pre-dexed/debug/classes_dc152645600b2a3865e5f1900a63581215b30901.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_0d6257aa47315a461124275301cce1a71bbab6dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="615cc5f836761e0141c7e8410b474bf6030ba0eb">
+        <dex dex="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a32929c4002caf85fe9c71e28715237a6d65d885/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Daniel/.android/build-cache/7ed26392fb8635e874a200c104d74665186ff3d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/pre-dexed/debug/classes_2d2261ea8a63fa302f99ab2210cac2786b00d771.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/Daniel/Desktop/AroundMe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3dbba28e3110b5654757403a6861d526967bc2f4/classes.dex" />
+    </item>
+
+</items>
